@@ -1,1 +1,1 @@
-# MARS-React-Week1
+# React Refresher w/ MARS Returnship
